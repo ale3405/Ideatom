@@ -1,4 +1,4 @@
-🛡️ Proyecto PayGuardian - Ideatom
+🛡️ Proyecto PayGuardian - Ideathom
 
 PayGuardian es una solución móvil de seguridad financiera enfocada en la prevención de fraude digital en tiempo real. Utiliza datos de red obtenidos mediante APIs del estándar Open Gateway para validar la identidad del usuario, la integridad de su dispositivo y la confiabilidad del entorno desde el cual se realizan operaciones financieras. Está diseñado para integrarse fácilmente en apps bancarias o fintech, ofreciendo una protección invisible pero efectiva contra suplantación de identidad, fraudes por SIM swap, y transacciones sospechosas desde ubicaciones o redes inseguras.
 
