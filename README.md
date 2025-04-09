@@ -4,6 +4,7 @@ PayGuardian es una solución móvil de seguridad financiera enfocada en la preve
 
 
 🎯 Objetivo del Proyecto:
+
 Desarrollar un sistema de verificación inteligente que ayude a prevenir el fraude móvil en el sector bancario, combinando información de red en tiempo real (SIM, ubicación, estado del dispositivo, roaming, entre otros) con procesos de autenticación digital (KYC), mejorando la confianza, seguridad y experiencia del usuario al realizar operaciones financieras desde dispositivos móviles.
 
 Os dejo el link para que veais una idea visual de lo que quiero hacer https://www.figma.com/design/uqQKXjetEhpo6Y0SO3IqQk/PayGuardian?node-id=0-1&t=dyJG4jo4V18bAkXT-1
